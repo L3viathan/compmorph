@@ -1,0 +1,6 @@
+*.txt
+*.tsv
+*.csv
+*.gz
+*.pdf
+*.pyc
